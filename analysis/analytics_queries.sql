@@ -1,6 +1,13 @@
--- ============================================
--- Analytics Queries
--- ============================================
+/*
+Business Analytics Queries
+
+Script Purpose:
+    This script contains SQL queries to analyze the gold layer data and
+    derive useful business insights. These queries can be used to answer
+    real business questions about customer behavior, product performance,
+    and sales trends.
+*/
+
 
 -- 1. Total Sales by Country
 SELECT 
