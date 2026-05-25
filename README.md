@@ -22,7 +22,6 @@ I followed medallion architecture for the data architecture (Bronze, Silver, and
 ### Tools used
 - SQL Server
 - CSV datasets(ERP and CRM data)
-- Draw.io for architecture diagrams
 
 ### What I learned
 Working through this project gave me hands on experience with data warehouse design, writing ETL pipelines in SQL, data modeling with star schema, and turning messy raw data into clean tables to query from.
